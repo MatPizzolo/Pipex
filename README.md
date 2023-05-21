@@ -5,7 +5,7 @@ The purpose of this project is the discovery in detail of the UNIX mechanism - `
 [Subject](en.subject.pdf)
 
 ### Discription of mandatory part
-The program `pipex` should repeat the behaviour of the next shell command
+The program `pipex` should repeat the behaviour of the shell command:
 ```bash
 $> < file1 cmd1 | cmd2 > file2
 ```
