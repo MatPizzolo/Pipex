@@ -2,6 +2,8 @@
 
 The purpose of this project is the discovery in detail of the UNIX mechanism - `pipe`.
 
+[Subject](en.subject.pdf)
+
 ### Discription of mandatory part
 The program `pipex` should repeat the behaviour of the next shell command
 ```bash
